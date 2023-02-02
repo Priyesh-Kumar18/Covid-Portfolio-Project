@@ -1,3 +1,10 @@
+/*
+
+Data Exploration
+
+*/ 
+
+
 select *
 From [Portfolio Project]..CovidDeaths
 where continent is not null
