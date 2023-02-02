@@ -58,13 +58,3 @@ From [Portfolio Project]..CovidDeaths
 --Where location like '%states%'
 Group by Location, Population, date
 order by PercentPopulationInfected desc
-
-
-
-
-
-
-
-
-
---
