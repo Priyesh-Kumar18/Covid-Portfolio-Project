@@ -1,4 +1,4 @@
-# PortfolioProject
+# Covid Portfolio Project
 This will hold all the code for personal projects
 
 Covid Portfolio Project: A project in which I explored data of Covid in 2020 - 2021 using SQL writing 
